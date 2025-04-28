@@ -49,8 +49,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=xnabil&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnabil&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=xnabil&color=brightgreen" alt="Profile views">
 </p>
