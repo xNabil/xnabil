@@ -4,21 +4,18 @@
 
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <p align="center">
-  <em>[Your Tagline or Short Bio, e.g., "rookie Developer | AI Enthusiast | Building cool stuff with code"]</em>
+  <em>["rookie Developer | AI Enthusiast | Building cool stuff with code"]</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://x.com/nabilkhanx" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=web&logoColor=white" alt="Portfolio">
-  </a>
   <a href="mailto:nabilkhan.exe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+ <a href="https://wa.me/+8801645504845" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
