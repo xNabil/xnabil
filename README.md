@@ -2,22 +2,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="coding gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Nabil</h1>
 <p align="center">
-  <em>[Your Tagline or Short Bio, e.g., "Full-Stack Developer | AI Enthusiast | Building cool stuff with code"]</em>
+  <em>[Your Tagline or Short Bio, e.g., "rookie Developer | AI Enthusiast | Building cool stuff with code"]</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/your-username" target="_blank">
+  <a href="https://x.com/nabilkhanx" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=web&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nabilkhan.exe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -25,11 +25,11 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **[e.g., Rust, Machine Learning, Cloud Architecture]**
-- 💻 I work with **[e.g., JavaScript, Python, React, Docker]**
-- 🔭 I’m working on **[e.g., an open-source project, a personal app, or "world domination through code"]**
-- ⚡ Fun fact: **[e.g., I once debugged code at 3 AM with only coffee and sheer willpower]**
-- 📫 Reach me at: **[your.email@example.com]**
+- 🌱 I’m currently learning **Python**
+- 💻 I work with **Python**
+- 🔭 I’m working on **Random stuff for fun**
+- ⚡ Fun fact: **I once debugged code at 3 AM with only coffee and sheer willpower**
+- 📫 Reach me at: **nabilkhan.exe@gmail.com**
 
 ---
 
@@ -47,8 +47,6 @@
 
 ### 🌟 Featured Projects
 - **[Project Name 1](https://github.com/your-username/project1)**: [Brief description, e.g., "A full-stack web app for task management built with React and Node.js."]
-- **[Project Name 2](https://github.com/your-username/project2)**: [Brief description, e.g., "A machine learning model to predict stock prices using Python and TensorFlow."]
-- **[Project Name 3](https://github.com/your-username/project3)**: [Brief description, e.g., "A CLI tool for automating repetitive tasks, written in Go."]
 
 ---
 
@@ -59,13 +57,6 @@
 </p>
 
 ---
-
-### 📝 Latest Blog Posts
-- [Post Title 1](https://your-blog.com/post1) - [Short description or date]
-- [Post Title 2](https://your-blog.com/post2) - [Short description or date]
-
----
-
 <p align="center">
   <em>Let's connect and build something amazing together! 🚀</em>
 </p>
