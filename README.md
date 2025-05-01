@@ -43,7 +43,7 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Project Name 1](https://github.com/your-username/project1)**: [Brief description, e.g., "A full-stack web app for task management built with React and Node.js."]
+- **[Discord Auto Chat bot](https://github.com/xNabil/discord-ai-bot)**
 
 ---
 
