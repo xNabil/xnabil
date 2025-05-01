@@ -43,7 +43,7 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Discord Auto Chat bot](https://github.com/xNabil/discord-ai-bot)**
+- **[Discord Auto Chat bot](https://github.com/xNabil/discord-ai-bot) [A simple Discord self-bot that uses Gemini AI to automatically reply, handle mentions, and engage in conversations. Great for automating tasks like leveling up in servers for airdrops and participating in events that require activity.]**
 
 ---
 
