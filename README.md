@@ -49,21 +49,8 @@
   <a href="https://github.com/xnabil">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=xnabil&theme=aura&hide_border=false&border_radius=10" />
+         src="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=aura&hide_border=false" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xnabil&theme=aura"
-    />
-  <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xnabil&theme=aura"
-    />
 </p>
 
 <p align="center">
@@ -86,6 +73,13 @@
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xnabil&theme=aura"
     />
 </p>
+<p align="center">
+   <img align="center"
+        height="150em"
+        src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
+        />
+        <p/>
+
 
 <div align="center">
   <a href="mailto:nabil980gnd@gmail.com">
