@@ -74,7 +74,7 @@
     />
 </p>
 <p align="center">
-   <a herf="https://github.com/xNabil?tab=repositories&q=&type=&language=&sort=stargazers">
+   <a href="https://github.com/xNabil?tab=repositories&q=&type=&language=&sort=stargazers">
    <img align="center"
         height="150em"
         src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
