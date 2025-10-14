@@ -42,30 +42,62 @@
 
 </div>
 
-
 ### 📈 GitHub Activity Graph:
 
-<p align="center">
-  <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=aura&hide_border=false" />
-  </a>
-</p>
-<p align="center">
- <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xnabil&theme=aura"
-    />
-</p>
-<p align="center">
-   <a href="https://github.com/xNabil?tab=repositories&q=&type=&language=&sort=stargazers">
-   <img align="center"
-        height="150em"
-        src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
-        />
-        <p/>
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=aura&hide_border=false"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=github&hide_border=false"
+    >
+    <img 
+      alt="GitHub Streak Stats" 
+      height="150em"
+      src="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=github&hide_border=false"
+    >
+  </picture>
+
+  <br>
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xnabil&theme=aura"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xnabil&theme=github"
+    >
+    <img 
+      alt="GitHub Profile Summary" 
+      height="150em"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xnabil&theme=github"
+    >
+  </picture>
+
+  <br>
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=github&combine_all_yearly_contributions=true"
+    >
+    <img 
+      alt="GitHub Contributor Stats" 
+      height="150em"
+      src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=github&combine_all_yearly_contributions=true"
+    >
+  </picture>
+</div>
+
 <div align="center">
   <a href="mailto:nabil980gnd@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -83,5 +115,3 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBqNGhkbTd3NTVzNzhjNnJlazRvZmNsaW0yY3p4djYzaTBteGJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" width="300" height="300">
 </p>
-
-
