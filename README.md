@@ -29,9 +29,9 @@
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+more+human" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+more+human" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+more+human" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
 </picture>
 
 <picture>
