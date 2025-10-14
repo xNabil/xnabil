@@ -52,20 +52,6 @@
          src="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=aura&hide_border=false" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xnabil&theme=aura"
-    />
-  <a href="https://github.com/xnabil">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xnabil&theme=aura&utcOffset=6"
-    />
-</p>
-
 <p align="center">
  <a href="https://github.com/xnabil">
     <img align="center"
@@ -80,8 +66,6 @@
         src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
         />
         <p/>
-
-
 <div align="center">
   <a href="mailto:nabil980gnd@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -90,15 +74,12 @@
     <img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
 </div>
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=xnabil&color=brightgreen" /></p> 
 <br></div>
 
 <h2 align="center">Thanks for visiting my profile.</h2>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBqNGhkbTd3NTVzNzhjNnJlazRvZmNsaW0yY3p4djYzaTBteGJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" width="300" height="300">
 </p>
