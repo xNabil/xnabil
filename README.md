@@ -53,16 +53,16 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=aura&hide_border=false"
+      srcset="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=xnabil&theme=aura&hide_border=false"
     >
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=github&hide_border=false"
+      srcset="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=xnabil&theme=github&hide_border=false"
     >
     <img 
       alt="GitHub Streak Stats" 
       height="150em"
-      src="https://nirzak-streak-stats.vercel.app/?user=xnabil&theme=github&hide_border=false"
+      src="https://github-readme-streak-stats-tawny-xi-41.vercel.app/?user=xnabil&theme=github&hide_border=false"
     >
   </picture>
 
