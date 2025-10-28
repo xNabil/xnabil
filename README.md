@@ -107,5 +107,5 @@
 
 <h2 align="center">Thanks for visiting my profile.</h2>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBqNGhkbTd3NTVzNzhjNnJlazRvZmNsaW0yY3p4djYzaTBteGJvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif" width="300" height="300">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRxZmpwbXpmM3djNGFzNHJoMjhxdG1vb2RjZ2VpcGRoZHowZzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif" width="300" height="300">
 </p>
