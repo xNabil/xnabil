@@ -42,9 +42,12 @@
 
 </div>
 <div align="center">
-  <a href="mailto:nabil980gnd@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  <a href="mailto:nabil980gnd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
+  <p style="margin-top:8px; color:#ccc; font-family:sans-serif; font-size:14px;">
+    nabil980gnd@gmail.com
+  </p>
 </div>
 <div align="center">
   <picture>
