@@ -43,7 +43,7 @@
 </div>
 <div align="center">
   <a href="mailto:nabil980gnd@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
 </div>
 <div align="center">
