@@ -83,26 +83,7 @@
       src="https://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=xnabil&theme=github"
     >
   </picture>
-
-  <br>
-
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=aura&combine_all_yearly_contributions=true"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=github&combine_all_yearly_contributions=true"
-    >
-    <img 
-      alt="GitHub Contributor Stats" 
-      height="150em"
-      src="https://github-contributor-stats.vercel.app/api?username=xnabil&limit=5&theme=github&combine_all_yearly_contributions=true"
-    >
-  </picture>
 </div>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=xnabil&color=brightgreen" /></p> 
