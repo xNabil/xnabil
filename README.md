@@ -1,55 +1,56 @@
 <div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey+im+nabil" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=000000&repeat=false&width=300&lines=hey+im+nabil" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey,+im+nabil" />
+  </picture>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey+im+nabil" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=000000&repeat=false&width=300&lines=hey+im+nabil" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=40&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey,+im+nabil" />
-</picture>
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3c2Iyb2J2cDdpb2Z4ZzFhY20xcDA1aHI2MzF5MTFwNWk5anhobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif" width="160" height="160" style="min-height: 160px;" />
+  <br/><br/>
 
-<br/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3c2Iyb2J2cDdpb2Z4ZzFhY20xcDA1aHI2MzF5MTFwNWk5anhobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif" width="160" height="160" style="min-height: 160px;" />
-<br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=650&lines=college+student+from+Bangladesh" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
+  </picture>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
+  </picture>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
+  </picture>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=building+bots%2C+AI+integrations%2C+and+automation+tools" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
+  </picture>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=exploring+how+tech+makes+digital+spaces+smarter+and+easier" />
-</picture>
-
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=always+learning+and+expanding+my+skills" />
+  </picture>
 </div>
+
 <div align="center">
   <a href="mailto:nabil980gnd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
   <p style="margin-top:3px; color:#ccc; font-family:sans-serif; font-size:6px;">
-  nabil980gnd@gmail.com
-</p>
+    nabil980gnd@gmail.com
+  </p>
 </div>
+
 <div align="center">
+  <!-- GitHub Streak Stats -->
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -67,27 +68,47 @@
   </picture>
 
   <br>
-
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=xnabil&theme=aura"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=xnabil&theme=github"
-    >
-    <img 
-      alt="GitHub Profile Summary" 
-      height="150em"
-      src="https://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=xnabil&theme=github"
-    >
-  </picture>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">    
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-one-pi-18.vercel.app/api?username=xnabil&show_icons=true&count_private=true&hide_border=true&title_color=9F48E9&icon_color=9F48E9&text_color=c9d1d9&bg_color=0d1117"
+      >
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-one-pi-18.vercel.app/api?username=xnabil&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"
+      >
+      <img 
+        width="40%" 
+        height="170px" 
+        alt="GitHub Stats" 
+        src="https://github-readme-stats-one-pi-18.vercel.app/api?username=xnabil&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"
+      >
+    </picture>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=xnabil&layout=compact&hide_border=true&title_color=9F48E9&text_color=c9d1d9&bg_color=0d1117"
+      >
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=xnabil&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"
+      >
+      <img 
+        width="33%" 
+        height="150px" 
+        alt="Top Languages" 
+        src="https://github-readme-stats-one-pi-18.vercel.app/api/top-langs/?username=xnabil&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"
+      >
+    </picture>
+  </div>
 </div>
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=xnabil&color=brightgreen" /></p> 
-<br></div>
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=xnabil&color=brightgreen" /></p> 
+  <br>
+</div>
 
 <h2 align="center">Thanks for visiting my profile.</h2>
 <p align="center">
