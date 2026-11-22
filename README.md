@@ -9,11 +9,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3c2Iyb2J2cDdpb2Z4ZzFhY20xcDA1aHI2MzF5MTFwNWk5anhobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif" width="160" height="160" style="min-height: 160px;" />
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=000000&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=650&lines=college+student+from+Bangladesh" />
-  </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=30&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&lines=deeply+interested+in+AI%2C+blockchain%2C+crypto%2C+and+automation" />
